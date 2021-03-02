@@ -1,5 +1,5 @@
 # Decentralized Social Media(Dwitter)
-`Consensys Bootcamp Project`
+`HashNode AWS Amplify`
 
 ## Introduction
 
@@ -36,6 +36,7 @@ The platform is a decentralized social media something similar to twitter but to
 - Javascript
 - Jquery
 - Truffle
+- AWS Amplify
 
 ## Future Work
 - Use Meta transactions(gasless transactions) to make the platform gas free for users
@@ -76,9 +77,7 @@ The platform is a decentralized social media something similar to twitter but to
 1. In the projects root directory, run `npm start`
 
 ## Project Demo
-Website 👉 [https://dwittermedia.herokuapp.com/](https://dwittermedia.herokuapp.com/)
-
-YouTube 👉 [https://youtu.be/l75vF8HAJ8Y](https://youtu.be/l75vF8HAJ8Y)
+Website 👉 [https://main.d1moq52zmv8gnj.amplifyapp.com/](https://main.d1moq52zmv8gnj.amplifyapp.com/)
 
 ## Avoiding Common Attacks
 Documented here 👉 [avoiding_common_attacks.md](avoiding_common_attacks.md)
