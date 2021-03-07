@@ -77,7 +77,7 @@ The platform is a decentralized social media something similar to twitter but to
 1. In the projects root directory, run `npm start`
 
 ## Project Demo
-Website 👉 [https://main.d1moq52zmv8gnj.amplifyapp.com/](https://main.d1moq52zmv8gnj.amplifyapp.com/)
+Website 👉 [https://main.d1anan91lx1ndy.amplifyapp.com/](https://main.d1anan91lx1ndy.amplifyapp.com/)
 
 ## Avoiding Common Attacks
 Documented here 👉 [avoiding_common_attacks.md](avoiding_common_attacks.md)

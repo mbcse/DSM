@@ -10,11 +10,24 @@
             "StackName": "amplify-dsm-dev-121856",
             "StackId": "arn:aws:cloudformation:ap-south-1:019206543885:stack/amplify-dsm-dev-121856/5eb16d10-7b23-11eb-ad41-0a9b46ad5122",
             "AmplifyAppId": "d1moq52zmv8gnj"
+        }
+    },
+    "dsm": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-dsm-dsm-205527-authRole",
+            "UnauthRoleArn": "arn:aws:iam::019206543885:role/amplify-dsm-dsm-205527-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::019206543885:role/amplify-dsm-dsm-205527-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-dsm-dsm-205527-deployment",
+            "UnauthRoleName": "amplify-dsm-dsm-205527-unauthRole",
+            "StackName": "amplify-dsm-dsm-205527",
+            "StackId": "arn:aws:cloudformation:ap-south-1:019206543885:stack/amplify-dsm-dsm-205527/59a9f6e0-7f59-11eb-89e5-0a3322352d16",
+            "AmplifyAppId": "d1anan91lx1ndy"
         },
         "categories": {
             "hosting": {
                 "amplifyhosting": {
-                    "appId": "d1moq52zmv8gnj",
+                    "appId": "d1anan91lx1ndy",
                     "type": "cicd"
                 }
             }
