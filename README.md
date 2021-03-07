@@ -43,6 +43,10 @@ The platform is a decentralized social media something similar to twitter but to
 - Add more Features like follow, profile view etc
 - Add video Advertisement options
 - Add reporting on comments
+- Aws Amplify Text to speech and AWS Sentiment Analysis for better management
+- Aws Object and Image Detection to track explicit or wrong images
+- Aws amplify analytics to track platform
+- Aws amplify push notifications for real-time dweet updates
 
 
 ## Directory Structure
